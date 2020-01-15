@@ -16,6 +16,24 @@ A flutter based app that acts as Client to a nginx media server.
  ![basic](ReadmeData/MediaAppArch.png)
 ## Demo Gif
 
-* App Interface
+* Movie List View
 
-![Interface](ReadmeData/demo1.gif)
+![Interface](ReadmeData/ListView.gif)
+
+* Movie Detail View
+
+![Interface](ReadmeData/MovieDetail.gif)
+
+* Search Option
+
+![Interface](ReadmeData/Search.gif)
+
+* Video Playback using MXPlayer
+
+![Interface](ReadmeData/VideoPlayback.gif)
+
+* App Restart 
+
+Remembers previous state
+
+![Interface](ReadmeData/Restart.gif)
