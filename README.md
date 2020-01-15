@@ -13,7 +13,7 @@ A flutter based app that acts as Client to a nginx media server.
 * Offer basic searching facilities and an option to play the movie on a third party video player.
 
 ## Basic Connection Layout
- ![basic](ReadmeData/MediaAppArch.gif)
+ ![basic](ReadmeData/MediaAppArch.png)
 ## Demo Gif
 
 * App Interface
