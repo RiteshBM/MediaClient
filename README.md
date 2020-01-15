@@ -18,4 +18,4 @@ A flutter based app that acts as Client to a nginx media server.
 
 * App Interface
 
-![Interface](ReadmeData/demo1.gif =1024×576)
+![Interface](ReadmeData/demo1.gif)
