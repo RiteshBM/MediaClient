@@ -1,16 +1,21 @@
-# homefront
+# MediaClientApp
 
-A new Flutter project.
+A flutter based app that acts as Client to a nginx media server.
 
-## Getting Started
+## Tech Stack Used
 
-This project is a starting point for a Flutter application.
+* [Flutter](https://flutter.dev/) - Flutter is an open-source UI software development kit created by Google.
 
-A few resources to get you started if this is your first Flutter project:
+## What does it intend to do?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Retrieve the data prepared by the node server about the Host Server's movie files.
+* Serve as a frontend that provides info about the respective movies from the omDb API.
+* Offer basic searching facilities and an option to play the movie on a third party video player.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Basic Connection Layout
+ ![basic](ReadmeData/MediaAppArch.gif)
+## Demo Gif
+
+* App Interface
+
+![Interface](ReadmeData/demo1.gif)
